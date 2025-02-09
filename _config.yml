@@ -116,7 +116,7 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "임시 테스트용 블로그입니다."
   location: "Korea, Chungbuk University"
-  email:
+  email: "kdio@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
