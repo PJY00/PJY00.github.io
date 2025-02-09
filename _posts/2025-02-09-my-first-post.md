@@ -3,11 +3,15 @@ layout: post
 title: "첫 번째 블로그 글"
 date: 2024-02-09 12:00:00 +0900
 categories: [NONE]
-tags: [태그1, 태그2]
+tags: [NONE, NOne]
 author: "Jiyeong Park"
 ---
 
 _임시_ **테스트**용 글
+
+너무 어려워요....  
+기본 설정이 너무 어려워서 힘든데 내일도 수정해보겠습니다.
+페이지 폴더 안을 정리해야할 것 같네요.
 
 ## 글 내용 추가
 
@@ -16,5 +20,5 @@ _임시_ **테스트**용 글
 
 ```python
 # 코드 블록도 추가 가능
-print("Hello, Minimal Mistakes!")
+print("Hello, World!")
 ```
