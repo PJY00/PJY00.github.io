@@ -2,8 +2,8 @@
 layout: post
 title: "첫 번째 블로그 글"
 date: 2025-02-09 10:05:00 +0900
-categories: [NONE]
-tags: [NONE, NOne]
+categories: [일기]
+tags: [블로그, 수정]
 author: "Jiyeong Park"
 ---
 
