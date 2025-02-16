@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://https://github.com/PJY00/"
+      url: "https://github.com/PJY00/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -293,9 +293,11 @@ jekyll-archives:
     tag: /tags/:name/
 
 collections:
-  portfolio:
+  posts:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:categories/:title/
+    sort_by: "date"
+    order: "descending"
 
 # HTML Compression
 # - https://jch.penibelst.de/
