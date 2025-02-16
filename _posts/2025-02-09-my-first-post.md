@@ -5,6 +5,7 @@ date: 2025-02-09 10:05:00 +0900
 categories: [일기]
 tags: [블로그, 수정]
 author: "Jiyeong Park"
+author_profile: true
 ---
 
 _임시_ **테스트**용 글
