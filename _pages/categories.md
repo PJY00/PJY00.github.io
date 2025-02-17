@@ -5,6 +5,6 @@ permalink: /categories/
 author_profile: true
 ---
 
-{% raw %}
+<!-- {% raw %}
 {% include posts-taxonomy.html taxonomies=site.categories %}
-{% endraw %}
+{% endraw %} -->
