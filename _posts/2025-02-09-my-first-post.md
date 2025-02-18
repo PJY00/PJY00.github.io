@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "첫 번째 블로그 글"
 date: 2025-02-09 10:05:00 +0900
 categories: [일기]
